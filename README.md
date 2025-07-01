@@ -5,4 +5,5 @@ At each step we will divide the string into two subsequences that have no elemen
 Depending on the element we want to find in the string, we will choose one of the sequences and search for it there using the same procedure.
 
 Compile: g++ -Wall -o bsearch binary_search.cpp
+
 Run: ./bsearch
